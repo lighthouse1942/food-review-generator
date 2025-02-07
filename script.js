@@ -1,5 +1,5 @@
 async function generateReview() {
-    const apiKey = "YOUR_DEEPSEEK_API_KEY"; // 替换为您的 DeepSeek API 密钥
+    const apiKey = "sk-54e9a5ec1aa4418f96ff8ce6917a65a3"; // 替换为您的 DeepSeek API 密钥
     const prompt = "生成 20-100 字的小红书好评文案，突出生煎、小馄饨、牛肉粉丝汤和菜饭，使用表情符号（如🍴🥟），语言口语化。";
 
     try {
